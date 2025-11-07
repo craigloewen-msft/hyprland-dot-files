@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Powerpoint
+Comment=Powerpoint
+Exec=custom-launch-webapp.sh "https://powerpoint.cloud.microsoft/"
+Icon=document-new
+Terminal=false
+Type=Application
+Categories=Office;
