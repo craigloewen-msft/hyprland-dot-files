@@ -1,3 +1,3 @@
 #!/bin/bash
 
-exec uwsm-app -- microsoft-edge --app="$1" "${@:2}"
+exec uwsm-app -- $1 --new-window --app="$2" "${@:3}"
